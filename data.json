@@ -1,0 +1,35 @@
+[
+  {
+    "id": 1,
+    "name": "Titanic",
+    "description": "Leonardo DiCaprio kiss",
+    "specifications": {
+      "director": "James Cameron",
+      "year": 1997,
+      "genre": "Romance"
+    },
+    "tags": ["romance", "boat", "titanic"]
+  },
+  {
+    "id": 2,
+    "name": "The Batman",
+    "description": "Batman gonna help Gotham city",
+    "specifications": {
+      "director": "Matt Reeves",
+      "year": 2022,
+      "genre": "Action"
+    },
+    "tags": ["superhero", "gotham", "batman"]
+  },
+  {
+    "id": 3,
+    "name": "American Sniper",
+    "description": "Kill bad people",
+    "specifications": {
+      "director": "Clint Eastwood",
+      "year": 2015,
+      "genre": "Action"
+    },
+    "tags": ["action", "sniper", "american"]
+  }
+]
